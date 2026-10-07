@@ -1,2 +1,2 @@
 # UEFN-turboboost
-Using air vents to boost standard cars
+Attaches the air vent to follow the player's vehicles, allowing car customization limits to be bypassed.
